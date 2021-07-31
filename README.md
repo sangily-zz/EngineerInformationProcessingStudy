@@ -66,7 +66,7 @@
   > > - 각 단계가 끝난 후에는 다음 단계를 위한 **결과물이 명확하게 산출**되어야 한다.
   > > - 두 개 이상의 **과정 병행 X**
   >
-  > <img src="C:\Users\tkddl\AppData\Roaming\Typora\typora-user-images\image-20210731171006960.png" alt="image-20210731171006960" style="zoom:50%; float:left" />
+  > <img src="https://user-images.githubusercontent.com/76988389/127743912-f7e7792e-2d15-4620-babb-646bb30e3fd5.png" alt="image-20210731170721041" style="zoom:20%; float:left;"/>
 
   
 
@@ -79,7 +79,7 @@
   > >- 시스템의 모형을 만들어 추후 구현 단계에서 **골격 코드**로 사용
   > >- 소프트웨어 개발이 완료된 시점에서 오류가 발견되는 폭포수 모형의 단점을 보완
   >
-  > <img src="C:\Users\tkddl\AppData\Roaming\Typora\typora-user-images\image-20210731170721041.png" alt="image-20210731170721041" style="zoom:20%; float:left;"/>
+  > ![image](https://user-images.githubusercontent.com/76988389/127743956-267cc228-4949-46fe-9c83-a5ba169d7dff.png)
 
   
 
@@ -90,7 +90,7 @@
 > >- **위험 관리 및 최소화가 목적**
 > >- 점진적으로 개발 과정이 반복되므로 **요구사항을 중간에 첨가**할 수 있고, **정밀**하며, **유지보수 과정이 필요 없다.**
 >
-> <img src="C:\Users\tkddl\AppData\Roaming\Typora\typora-user-images\image-20210731172656735.png" alt="image-20210731172656735" style="zoom:20%; float:left;" />
+> ![image](https://user-images.githubusercontent.com/76988389/127743963-6c4bd2e6-a997-4394-91d8-b191ff82ec56.png)
 
 
 
@@ -110,7 +110,7 @@
 > >   3. 계약 협상보다는 **고객과 협업**에 더 가치를 둔다
 > >   4. 계획을 따르기 보다는 **변화에 반응하는 것**에 더 가치를 둔다
 >
-> <img src="C:\Users\tkddl\AppData\Roaming\Typora\typora-user-images\image-20210731191045113.png" alt="image-20210731191045113" style="zoom:90%; float:left;" />
+> ![image](https://user-images.githubusercontent.com/76988389/127743970-32aeee2e-da79-4b3b-a205-d512f6b8c487.png)
 
 
 
